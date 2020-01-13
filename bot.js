@@ -6,7 +6,7 @@ const client = new Discord.Client();
 const prefix = ">";
 const ms = require('ms');
 
-const token = "NjY1NTkyNTY0OTcxMjA4NzA1.XhtkfA.efck3q2lSRBAFgeEXsKN9NgiEQQ";
+const token = "NjY1NTkyNTY0OTcxMjA4NzA1.Xh0B0g.IvNy2uCicPOzKinzwO3ZCV4lidk";
 
 client.login(token);
 
